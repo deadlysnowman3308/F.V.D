@@ -11,20 +11,33 @@
 ```
 How to run:
 
+Linux:
+^^^^^^
+
 $ pip3 install -r requirements.txt
 
 $ python3 F.V.D.py
 
 $ Just Select your option 
 
-$ Paste your Facebook video link and Download Video
+$ Paste your Facebook video link and press enter
+
+$ Video will downloaded/saved in same folder
 _____________________________________________________________
+
+Windows:
+^^^^^^^
 
 $ In windows just run F.V.D.exe
 
-$ Video will downloaded in same folder
+$ Just Select your option 
+
+$ Paste your Facebook video link and press enter
+
+$ Video will downloaded/saved in same folder
 
 ```
+Only works in linux, mac, windows 8 or higher
 
 ![Loding](https://raw.githubusercontent.com/deadlysnowman3308/F.V.D/Hackingvila/screenshots/1.PNG)
 
