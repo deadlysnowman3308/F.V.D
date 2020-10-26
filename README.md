@@ -28,7 +28,7 @@ _____________________________________________________________
 Windows:
 ^^^^^^^
 
-$ In windows just run F.V.D.exe from windows folder
+$ In windows just run F.V.D.exe from Windows folder
 
 $ Just Select your option 
 
