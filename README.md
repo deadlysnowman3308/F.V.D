@@ -1,4 +1,5 @@
-#            F.V.D
+# >>            F.V.D            <<
+
 ## [Facebook Video Downloader]
 
 ### This is a free software for download Facebook videos with link. 
@@ -6,6 +7,19 @@
 ### You don't need login or API key for download facebook videos.
 
 ### Download videos in full speed
+
+```
+How to run:
+
+$ pip3 install -r requirments.txt
+
+$ python3 F.V.D.py
+
+$ Just Select your option 
+
+$ Paste your Facebook video link and Download Video
+
+```
 
 ![Loding](https://raw.githubusercontent.com/deadlysnowman3308/F.V.D/Hackingvila/screenshots/1.PNG)
 
