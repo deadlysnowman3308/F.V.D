@@ -11,7 +11,7 @@
 ```
 How to run:
 
-$ pip3 install -r requirments.txt
+$ pip3 install -r requirements.txt
 
 $ python3 F.V.D.py
 
