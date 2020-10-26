@@ -18,6 +18,11 @@ $ python3 F.V.D.py
 $ Just Select your option 
 
 $ Paste your Facebook video link and Download Video
+_____________________________________________________________
+
+$ In windows just run F.V.D.exe
+
+$ Video will downloaded in same folder
 
 ```
 
