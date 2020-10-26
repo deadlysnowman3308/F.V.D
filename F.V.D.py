@@ -1,4 +1,6 @@
-#!/usr/bin/env python3
+# Author: Aniket Dinda
+# Site: https://hackingivla.wordpress.com
+#!/usr/bin/python
 # -*- coding: utf-8 -*-
 
 import sys
