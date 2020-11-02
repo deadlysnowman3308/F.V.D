@@ -19,7 +19,7 @@ $ pip3 install -r requirements.txt
 
 $ python3 F.V.D.py
 
-$ Just Select your option 
+$ Select your option 
 
 $ Paste your Facebook video link and press enter
 
@@ -31,7 +31,7 @@ Windows:
 
 $ In windows just run F.V.D.exe from Windows folder
 
-$ Just Select your option 
+$ Select your option 
 
 $ Paste your Facebook video link and press enter
 
