@@ -1,4 +1,4 @@
-run="pip3 install -r requirements.txt && python3 F.V.D.py"
+run="pip install --upgrade pip && pip3 install -r requirements.txt && python3 F.V.D.py"
 language="python3"
 onBoot="echo Welcome to HackingVila!"
 
