@@ -17,7 +17,7 @@ Linux:
 
 $ pip3 install -r requirements.txt
 
-$ python3 F.V.D.py
+$ sudo python3 F.V.D.py
 
 $ Select your option 
 
